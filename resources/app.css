@@ -1,0 +1,24 @@
+#product .name {
+    font-weight: bold;
+    font-size: 24px;
+}
+
+#product .description {
+    color: #999;
+    margin-top: 10px;
+}
+
+#product .price {
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+footer {
+    background-color: #f1f4f8;
+    margin-top: 20px;
+}
+
+footer .copyright {
+    background-color: rgb(233, 236, 239);
+}
