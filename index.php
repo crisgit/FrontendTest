@@ -24,16 +24,16 @@ $data = [
     ],
     'footer' => [
         'left' => [
-            'name' => 'Institucional',
-            'links' => ['Noticias', 'Quem Somos', 'Contato'],
+            'nameA' => 'Institucional',
+            'linksA' => ['Noticias', 'Quem Somos', 'Contato'],
         ],
         'middle' => [
-            'name' => 'Ajuda & Suporte',
-            'links' => ['Como Comprar', 'Termos e Condições'],
+            'nameB' => 'Ajuda & Suporte',
+            'linksB' => ['Como Comprar', 'Termos e Condições'],
         ],
         'right' => [
-            'name' => 'Redes Sociais',
-            'links' => ['Facebook', 'Twitter', 'Instagram'],
+            'nameC' => 'Redes Sociais',
+            'linksC' => ['Facebook', 'Twitter', 'Instagram'],
         ],
     ],
 ];

@@ -1,3 +1,6 @@
+
+
+
 #product .name {
     font-weight: bold;
     font-size: 24px;
@@ -20,5 +23,14 @@ footer {
 }
 
 footer .copyright {
-    background-color: rgb(233, 236, 239);
+    background-color: rgb(22, 108, 194);
+}
+
+@media (max-width: 600px) {
+
+.body {
+    width:auto;
+    height: auto;
+}
+
 }
